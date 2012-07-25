@@ -1,0 +1,28 @@
+Metadata-Version: 1.1
+Name: RealTimeChart
+Version: 0.0
+Summary: RealTimeChart
+Home-page: http://www.almascience.org
+Author: Alvaro Aguirre
+Author-email: aaguirre@alma.cl
+License: UNKNOWN
+Description: RealTimeChart
+        
+        Installation:
+        
+        python setup.py develop
+        pserve development.ini
+        python setup.py test
+        
+        
+        0.0
+        ---
+        
+        -  Initial version
+        
+Keywords: web pyramid pylons
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Framework :: Pylons
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Application
